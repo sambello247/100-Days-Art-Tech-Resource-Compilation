@@ -8,7 +8,6 @@ The aim of this compilation of resources is to facilitate the exploration of val
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Resource Information](#resource-information)
 
 ## Usage
@@ -32,10 +31,6 @@ You can also simply open an issue with the tag "enhancement".
 5. Open a Pull Request
 
 Don't forget to give the project a star! Thanks again. Any contributions you make are greatly appreciated.
-
-## License
-
-Specify the license under which your project is distributed.
 
 ## Resource Information
 
