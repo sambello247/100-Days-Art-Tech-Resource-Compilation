@@ -34,7 +34,9 @@ Don't forget to give the project a star! Thanks again. Any contributions you mak
 
 ## Resource Information
 
-| Name    | Category         | Description    | Status   | Link                     |
-| ------- | ---------------- | -------------- | -------- | ------------------------ |
-| Freepik | Design & Visuals | Image bank     | Freemium | https://www.freepik.com/ |
-| Replit  | Coding & Dev     | Build Software | Freemium | https://replit.com/      |
+| Name       | Category         | Description     | Status   | Link                     |
+| ---------- | ---------------- | --------------- | -------- | ------------------------ |
+| Freepik    | Design & Visuals | Image bank      | Freemium | https://www.freepik.com/ |
+| Replit     | Coding & Dev     | Build Software  | Freemium | https://replit.com/      |
+| Color Hunt | Design           | Color Palette   | Free     | https://colorhunt.co     |
+| Unsplash   | Design           | Photos & Images | Free     | https://unsplash.com     |
