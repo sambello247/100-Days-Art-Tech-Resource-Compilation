@@ -34,9 +34,12 @@ Don't forget to give the project a star! Thanks again. Any contributions you mak
 
 ## Resource Information
 
-| Name       | Category         | Description     | Status   | Link                     |
-| ---------- | ---------------- | --------------- | -------- | ------------------------ |
-| Freepik    | Design & Visuals | Image bank      | Freemium | https://www.freepik.com/ |
-| Replit     | Coding & Dev     | Build Software  | Freemium | https://replit.com/      |
-| Color Hunt | Design           | Color Palette   | Free     | https://colorhunt.co     |
-| Unsplash   | Design           | Photos & Images | Free     | https://unsplash.com     |
+| Name           | Category         | Description                                       | Status   | Link                                 |
+| -------------- | ---------------- | ------------------------------------------------- | -------- | ------------------------------------ |
+| Freepik        | Design & Visuals | Image bank                                        | Freemium | https://www.freepik.com/             |
+| Replit         | Coding & Dev     | Build Software                                    | Freemium | https://replit.com/                  |
+| Color Hunt     | Design           | Color Palette                                     | Free     | https://colorhunt.co                 |
+| Unsplash       | Design           | Photos & Images                                   | Free     | https://unsplash.com                 |
+| VSCode         | Coding & Dev     | Code editor for web                               | Free     | https://code.visualstudio.com/       |
+| Android Studio | Coding & Dev     | Android app development                           | Free     | https://developer.android.com/studio |
+| C4D            | 3d Software      | 3d animation, modeling, simulation and rendering. | Premium  | https://www.maxon.net/en/cinema-4d   |
