@@ -34,17 +34,20 @@ Don't forget to give the project a star! Thanks again. Any contributions you mak
 
 ## Resource Information
 
-| Name              | Category                          | Description                                              | Status   | Link                                                    |
-| ----------------- | --------------------------------- | -------------------------------------------------------- | -------- | ------------------------------------------------------- |
-| Freepik           | Design & Visuals                  | Image bank                                               | Freemium | https://www.freepik.com/                                |
-| Replit            | Coding & Dev                      | Build Software                                           | Freemium | https://replit.com/                                     |
-| Color Hunt        | Design                            | Color Palette                                            | Free     | https://colorhunt.co                                    |
-| Unsplash          | Design                            | Photos & Images                                          | Free     | https://unsplash.com                                    |
-| VSCode            | Coding & Dev                      | Code editor for web                                      | Free     | https://code.visualstudio.com/                          |
-| Android Studio    | Coding & Dev                      | Android app development                                  | Free     | https://developer.android.com/studio                    |
-| C4D               | 3d Software                       | 3d animation, modeling, simulation and rendering.        | Premium  | https://www.maxon.net/en/cinema-4d                      |
-| XAMPP             | MariaDB, PHP, and Perl            | PHP Development Environment for Windows, Linux, OS X     | Free     | https://www.apachefriends.org/                          |
-| XCODE             | Coding & Dev                      | Develop, test, and distribute apps for Apple platforms   | Free     | https://developer.apple.com/xcode/                      |
-| Adobe Photoshop   | Photo(raster) Editor              | Retouch And Remix Your Work To Create Stunning Imagery.  | Premium  | https://www.adobe.com/ng/products/photoshop.html        |
-| Adobe Lightroom   | Image organization and Processing | Edit, organize, and share your best photos in Lightroom. | Premium  | https://www.adobe.com/products/photoshop-lightroom.html |
-| Adobe Illustrator | Vector graphics editor            | Create custom design, logos, icons, and more.            | Premium  | https://www.adobe.com/products/illustrator.html         |
+| Name                | Category                          | Description                                                                                                       | Status   | Link                                                    |
+| ------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------- |
+| Freepik             | Design & Visuals                  | Image bank                                                                                                        | Freemium | https://www.freepik.com/                                |
+| Replit              | Coding & Dev                      | Build Software                                                                                                    | Freemium | https://replit.com/                                     |
+| Color Hunt          | Design                            | Color Palette                                                                                                     | Free     | https://colorhunt.co                                    |
+| Unsplash            | Design                            | Photos & Images                                                                                                   | Free     | https://unsplash.com                                    |
+| VSCode              | Coding & Dev                      | Code editor for web                                                                                               | Free     | https://code.visualstudio.com/                          |
+| Android Studio      | Coding & Dev                      | Android app development                                                                                           | Free     | https://developer.android.com/studio                    |
+| C4D                 | 3d Software                       | 3d animation, modeling, simulation and rendering.                                                                 | Premium  | https://www.maxon.net/en/cinema-4d                      |
+| XAMPP               | MariaDB, PHP, and Perl            | PHP Development Environment for Windows, Linux, OS X                                                              | Free     | https://www.apachefriends.org/                          |
+| XCODE               | Coding & Dev                      | Develop, test, and distribute apps for Apple platforms                                                            | Free     | https://developer.apple.com/xcode/                      |
+| Adobe Photoshop     | Photo(raster) Editor              | Retouch And Remix Your Work To Create Stunning Imagery.                                                           | Premium  | https://www.adobe.com/ng/products/photoshop.html        |
+| Adobe Lightroom     | Image organization and Processing | Edit, organize, and share your best photos in Lightroom.                                                          | Premium  | https://www.adobe.com/products/photoshop-lightroom.html |
+| Adobe Illustrator   | Vector graphics editor            | Create custom design, logos, icons, and more.                                                                     | Premium  | https://www.adobe.com/products/illustrator.html         |
+| Adobe Premiere Pro  | Film making                       | A timeline-based and non-linear video editing software application.                                               | Premium  | https://www.adobe.com/products/premiere.html            |
+| Adobe After Effect  | Motion graphics & Film making     | A digital visual effects, motion graphics, and compositing application for video games and television production. | Premium  | https://www.adobe.com/ng/products/aftereffects.html     |
+| Adobe Media Encoder | Film making                       | Export videos to video-sharing websites like YouTube and Vimeo, mobile phones, and high-definition TV sets.       | Premium  | https://www.adobe.com/ng/products/media-encoder.html    |
